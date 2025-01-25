@@ -1,0 +1,17 @@
+                                                   READ ME
+
+Instructions for execution:
+
+* To get started, unzip the file and locate the HW2.py file. 
+*  The zip file includes datasets, HW2.py file, HW2 side.ipynb file containing the working code, and the report.
+* HW2.py is the main file with the code and HW2 side.ipynb file will be like the graph one.
+* Once you have found it, execute all the cells in the file on your preferred platform, such as collab or other platforms.
+*  Next, ensure that you have downloaded the necessary datasets and set the path correctly.
+*  After confirming that the paths are correct, execute all the cells in the file again.
+*  Once the cells are executed, you should see the graphs displayed, along with the corresponding accuracies for each classifier.
+* The One-vs-Rest strategy and the SGD binary classifier is run directly just check the paths of the datasets and they run as same.
+
+
+
+If there are any further questions please contact at
+Vivek03@nmsu.edu
